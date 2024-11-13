@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adhan-prayer-calendar
+X-WR-CALNAME:Prayer Times
+BEGIN:VEVENT
+UID:fajr_2024-11-14
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T235851Z
+DTSTART:20241114T025600Z
+DTEND:20241114T033600Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:اقترب وقت 🕋 صلاة الفجر
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
