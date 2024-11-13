@@ -2,17 +2,2916 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adhan-prayer-calendar
-X-WR-CALNAME:Prayer Times test
+X-WR-CALNAME:Prayer Times
 BEGIN:VEVENT
 UID:fajr_2024-11-14
 SUMMARY:🕋 صلاة الفجر
-DTSTAMP:20241113T230240Z
+DTSTAMP:20241113T232329Z
 DTSTART:20241114T025600Z
 DTEND:20241114T033600Z
 DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
  لى الصبح فهو في ذمة الله.
 X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
  لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-14
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241114T042700Z
+DTEND:20241114T042800Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-14
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241114T094600Z
+DTEND:20241114T101100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-14
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241114T124100Z
+DTEND:20241114T130600Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-14
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241114T150200Z
+DTEND:20241114T152200Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-14
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241114T162400Z
+DTEND:20241114T165400Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-15
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T025700Z
+DTEND:20241115T033700Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-15
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T042800Z
+DTEND:20241115T042900Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-15
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T094600Z
+DTEND:20241115T101100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-15
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T124100Z
+DTEND:20241115T130600Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-15
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T150200Z
+DTEND:20241115T152200Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-15
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241115T162300Z
+DTEND:20241115T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-16
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T025800Z
+DTEND:20241116T033800Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-16
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T042900Z
+DTEND:20241116T043000Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-16
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T094600Z
+DTEND:20241116T101100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-16
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T124100Z
+DTEND:20241116T130600Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-16
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T150100Z
+DTEND:20241116T152100Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-16
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241116T162300Z
+DTEND:20241116T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-17
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T025800Z
+DTEND:20241117T033800Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-17
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T043000Z
+DTEND:20241117T043100Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-17
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T094600Z
+DTEND:20241117T101100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-17
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T124000Z
+DTEND:20241117T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-17
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T150100Z
+DTEND:20241117T152100Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-17
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241117T162300Z
+DTEND:20241117T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-18
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T025900Z
+DTEND:20241118T033900Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-18
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T043000Z
+DTEND:20241118T043100Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-18
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T094700Z
+DTEND:20241118T101200Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-18
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T124000Z
+DTEND:20241118T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-18
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T150000Z
+DTEND:20241118T152000Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-18
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241118T162200Z
+DTEND:20241118T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-19
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T030000Z
+DTEND:20241119T034000Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-19
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T043100Z
+DTEND:20241119T043200Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-19
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T094700Z
+DTEND:20241119T101200Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-19
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T124000Z
+DTEND:20241119T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-19
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T150000Z
+DTEND:20241119T152000Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-19
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241119T162200Z
+DTEND:20241119T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-20
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T030100Z
+DTEND:20241120T034100Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-20
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T043200Z
+DTEND:20241120T043300Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-20
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T094700Z
+DTEND:20241120T101200Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-20
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T123900Z
+DTEND:20241120T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-20
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T150000Z
+DTEND:20241120T152000Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-20
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241120T162200Z
+DTEND:20241120T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-21
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T030100Z
+DTEND:20241121T034100Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-21
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T043300Z
+DTEND:20241121T043400Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-21
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T094700Z
+DTEND:20241121T101200Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-21
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T123900Z
+DTEND:20241121T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-21
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T145900Z
+DTEND:20241121T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-21
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241121T162100Z
+DTEND:20241121T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-22
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T030200Z
+DTEND:20241122T034200Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-22
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T043400Z
+DTEND:20241122T043500Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-22
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T094800Z
+DTEND:20241122T101300Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-22
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T123900Z
+DTEND:20241122T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-22
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T145900Z
+DTEND:20241122T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-22
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241122T162100Z
+DTEND:20241122T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-23
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T030300Z
+DTEND:20241123T034300Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-23
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T043500Z
+DTEND:20241123T043600Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-23
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T094800Z
+DTEND:20241123T101300Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-23
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T123900Z
+DTEND:20241123T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-23
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T145900Z
+DTEND:20241123T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-23
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241123T162100Z
+DTEND:20241123T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-24
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T030300Z
+DTEND:20241124T034300Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-24
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T043600Z
+DTEND:20241124T043700Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-24
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T094800Z
+DTEND:20241124T101300Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-24
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T123900Z
+DTEND:20241124T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-24
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T145800Z
+DTEND:20241124T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-24
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241124T162100Z
+DTEND:20241124T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-25
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T030400Z
+DTEND:20241125T034400Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-25
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T043600Z
+DTEND:20241125T043700Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-25
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T094800Z
+DTEND:20241125T101300Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-25
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T123900Z
+DTEND:20241125T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-25
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T145800Z
+DTEND:20241125T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-25
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241125T162100Z
+DTEND:20241125T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-26
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T030500Z
+DTEND:20241126T034500Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-26
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T043700Z
+DTEND:20241126T043800Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-26
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T094900Z
+DTEND:20241126T101400Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-26
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T123800Z
+DTEND:20241126T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-26
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T145800Z
+DTEND:20241126T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-26
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241126T162100Z
+DTEND:20241126T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-27
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T030600Z
+DTEND:20241127T034600Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-27
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T043800Z
+DTEND:20241127T043900Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-27
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T094900Z
+DTEND:20241127T101400Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-27
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T123800Z
+DTEND:20241127T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-27
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T145800Z
+DTEND:20241127T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-27
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241127T162100Z
+DTEND:20241127T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-28
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T030600Z
+DTEND:20241128T034600Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-28
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T043900Z
+DTEND:20241128T044000Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-28
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T094900Z
+DTEND:20241128T101400Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-28
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T123800Z
+DTEND:20241128T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-28
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T145800Z
+DTEND:20241128T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-28
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241128T162100Z
+DTEND:20241128T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-29
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T030700Z
+DTEND:20241129T034700Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-29
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T044000Z
+DTEND:20241129T044100Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-29
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T095000Z
+DTEND:20241129T101500Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-29
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T123800Z
+DTEND:20241129T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-29
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T145800Z
+DTEND:20241129T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-29
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241129T162100Z
+DTEND:20241129T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-11-30
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T030800Z
+DTEND:20241130T034800Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-11-30
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T044100Z
+DTEND:20241130T044200Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-11-30
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T095000Z
+DTEND:20241130T101500Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-11-30
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T123800Z
+DTEND:20241130T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-11-30
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T145700Z
+DTEND:20241130T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-11-30
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241130T162100Z
+DTEND:20241130T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-01
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T030800Z
+DTEND:20241201T034800Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-01
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T044100Z
+DTEND:20241201T044200Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-01
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T095000Z
+DTEND:20241201T101500Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-01
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T123800Z
+DTEND:20241201T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-01
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T145700Z
+DTEND:20241201T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-01
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241201T162100Z
+DTEND:20241201T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-02
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T030900Z
+DTEND:20241202T034900Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-02
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T044200Z
+DTEND:20241202T044300Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-02
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T095100Z
+DTEND:20241202T101600Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-02
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T123800Z
+DTEND:20241202T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-02
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T145700Z
+DTEND:20241202T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-02
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241202T162100Z
+DTEND:20241202T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-03
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T031000Z
+DTEND:20241203T035000Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-03
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T044300Z
+DTEND:20241203T044400Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-03
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T095100Z
+DTEND:20241203T101600Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-03
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T123800Z
+DTEND:20241203T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-03
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T145700Z
+DTEND:20241203T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-03
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241203T162100Z
+DTEND:20241203T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-04
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T031100Z
+DTEND:20241204T035100Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-04
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T044400Z
+DTEND:20241204T044500Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-04
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T095200Z
+DTEND:20241204T101700Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-04
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T123800Z
+DTEND:20241204T130300Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-04
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T145700Z
+DTEND:20241204T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-04
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232329Z
+DTSTART:20241204T162100Z
+DTEND:20241204T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-05
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232329Z
+DTSTART:20241205T031100Z
+DTEND:20241205T035100Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-05
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232329Z
+DTSTART:20241205T044500Z
+DTEND:20241205T044600Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-05
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232329Z
+DTSTART:20241205T095200Z
+DTEND:20241205T101700Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-05
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232329Z
+DTSTART:20241205T123900Z
+DTEND:20241205T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-05
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241205T145700Z
+DTEND:20241205T151700Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-05
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241205T162100Z
+DTEND:20241205T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-06
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T031200Z
+DTEND:20241206T035200Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-06
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T044500Z
+DTEND:20241206T044600Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-06
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T095300Z
+DTEND:20241206T101800Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-06
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T123900Z
+DTEND:20241206T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-06
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T145800Z
+DTEND:20241206T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-06
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241206T162100Z
+DTEND:20241206T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-07
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T031300Z
+DTEND:20241207T035300Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-07
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T044600Z
+DTEND:20241207T044700Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-07
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T095300Z
+DTEND:20241207T101800Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-07
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T123900Z
+DTEND:20241207T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-07
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T145800Z
+DTEND:20241207T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-07
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241207T162100Z
+DTEND:20241207T165100Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-08
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T031300Z
+DTEND:20241208T035300Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-08
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T044700Z
+DTEND:20241208T044800Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-08
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T095300Z
+DTEND:20241208T101800Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-08
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T123900Z
+DTEND:20241208T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-08
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T145800Z
+DTEND:20241208T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-08
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241208T162200Z
+DTEND:20241208T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-09
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T031400Z
+DTEND:20241209T035400Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-09
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T044800Z
+DTEND:20241209T044900Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-09
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T095400Z
+DTEND:20241209T101900Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-09
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T123900Z
+DTEND:20241209T130400Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-09
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T145800Z
+DTEND:20241209T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-09
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241209T162200Z
+DTEND:20241209T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-10
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T031500Z
+DTEND:20241210T035500Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-10
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T044800Z
+DTEND:20241210T044900Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-10
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T095400Z
+DTEND:20241210T101900Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-10
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T124000Z
+DTEND:20241210T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-10
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T145800Z
+DTEND:20241210T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-10
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241210T162200Z
+DTEND:20241210T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-11
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T031500Z
+DTEND:20241211T035500Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-11
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T044900Z
+DTEND:20241211T045000Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-11
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T095500Z
+DTEND:20241211T102000Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-11
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T124000Z
+DTEND:20241211T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-11
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T145800Z
+DTEND:20241211T151800Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-11
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241211T162200Z
+DTEND:20241211T165200Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-12
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T031600Z
+DTEND:20241212T035600Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-12
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T045000Z
+DTEND:20241212T045100Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-12
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T095500Z
+DTEND:20241212T102000Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-12
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T124000Z
+DTEND:20241212T130500Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-12
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T145900Z
+DTEND:20241212T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-12
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241212T162300Z
+DTEND:20241212T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-13
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T031600Z
+DTEND:20241213T035600Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-13
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T045000Z
+DTEND:20241213T045100Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-13
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T095600Z
+DTEND:20241213T102100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-13
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T124100Z
+DTEND:20241213T130600Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-13
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T145900Z
+DTEND:20241213T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-13
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241213T162300Z
+DTEND:20241213T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr_2024-12-14
+SUMMARY:🕋 صلاة الفجر
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T031700Z
+DTEND:20241214T035700Z
+DESCRIPTION:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+X-ALT-DESC:🕋 صلاة الفجر\nقال رسول الله ﷺ: من ص
+ لى الصبح فهو في ذمة الله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sunrise_2024-12-14
+SUMMARY:☀️ شروق الشمس
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T045100Z
+DTEND:20241214T045200Z
+DESCRIPTION:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+X-ALT-DESC:☀️ شروق الشمس\nقال رسول الله ﷺ: لا 
+ صلاة بعد الفجر حتى تطلع الشمس
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr_2024-12-14
+SUMMARY:🕋 صلاة الظهر
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T095600Z
+DTEND:20241214T102100Z
+DESCRIPTION:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفض
+ لُ الأعمالِ الصَّلاةُ لوقتِها
+X-ALT-DESC:🕋 صلاة الظهر\nقال رسول الله ﷺ: أفضل
+ ُ الأعمالِ الصَّلاةُ لوقتِها
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:asr_2024-12-14
+SUMMARY:🕋 صلاة العصر
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T124100Z
+DTEND:20241214T130600Z
+DESCRIPTION:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+X-ALT-DESC:🕋 صلاة العصر\nقال رسول الله ﷺ: من ت
+ رك صلاة العصر حبط عمله.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib_2024-12-14
+SUMMARY:🕋 صلاة المغرب
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T145900Z
+DTEND:20241214T151900Z
+DESCRIPTION:🕋 صلاة المغرب\nقال رسول الله ﷺ: با
+ دِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ الن
+ َّجْمِ.
+X-ALT-DESC:🕋 صلاة المغرب\nقال رسول الله ﷺ: باد
+ ِروا بصَلاةِ المَغرِبِ قَبلَ طُلوعِ النّ
+ َجْمِ.
+CATEGORIES:Sage
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:isha_2024-12-14
+SUMMARY:🕋 صلاة العشاء
+DTSTAMP:20241113T232330Z
+DTSTART:20241214T162300Z
+DTEND:20241214T165300Z
+DESCRIPTION:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
+X-ALT-DESC:🕋 صلاة العشاء\nقال رسول الله ﷺ: من 
+ صلى العشاء في جماعة، فكأنما قام نصف الليل
+ .
 CATEGORIES:Sage
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 CLASS:PUBLIC
